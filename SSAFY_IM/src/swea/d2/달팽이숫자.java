@@ -54,7 +54,7 @@ public class 달팽이숫자 {
 				r = nr;
 			} //
 			else {
-				turn++;
+				++turn;
 				continue;
 			}
 		}
